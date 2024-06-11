@@ -340,6 +340,9 @@ get_os() {
                 (10.15*) distro='macOS Catalina' ;;
                 (11*)    distro='macOS Big Sur' ;;
                 (12*)    distro='macOS Monterey' ;;
+                (13*)    distro='macOS Ventura' ;;
+                (14*)    distro='macOS Sonoma' ;;
+                (15*)    distro='macOS Sequoia' ;;
                 (*)      distro='macOS' ;;
             esac
 
